@@ -4,7 +4,7 @@
 
 一个 MtF 小猫娘，热爱编程与开源技术，喜欢折腾 Linux、研究底层原理，也喜欢从零开始构建有趣的项目喵！
 
-- 💻 主要使用 TypeScript、JavaScript 和 Go
+- 💻 主要使用 TypeScript、JavaScript 和 Go（只会 VibeCoding）
 - 🐧 热衷于 Linux，尤其是 Arch Linux
 - 🔧 喜欢开发工具、框架和各类应用
 - 🌱 持续学习新技术，探索更多可能
@@ -47,5 +47,5 @@
 ---
 
 <div align="center">
-*感谢访问我的 GitHub 主页！*
+感谢访问我的 GitHub 主页！
 </div>
