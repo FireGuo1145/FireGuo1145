@@ -2,7 +2,7 @@
 
 **开发者 | Linux 爱好者 | 开源技术爱好者**
 
-一个 MtF 小猫娘，热爱编程与开源技术，喜欢折腾 Linux、研究底层原理，也喜欢从零开始构建有趣的项目喵！
+一个 MtX 小猫娘，热爱编程与开源技术，喜欢折腾 Linux、研究底层原理，也喜欢从零开始构建有趣的项目喵！
 
 - 💻 主要使用 TypeScript、JavaScript 和 Go（只会 VibeCoding）
 - 🐧 热衷于 Linux，尤其是 Arch Linux
